@@ -349,9 +349,9 @@ ul>li>a {
     display: flex;
     width: 635px;
     height: 325px;
-    border-radius: 13px;
+    border-radius: 10px;
     align-items: center;
-    padding: 25px 25px;
+    padding: 30px 30px;
     justify-content: center;
     gap: 26px;
     border: 1px solid #f04040;
@@ -366,16 +366,16 @@ ul>li>a {
 
 .boxes-img {
     width: 65px;
-    height: 280px;
+    height: 250px;
 }
 
 .boxes-img img {
-    width: 58px;
+    width: 65px;
 }
 
 .boxes-content {
     width: 478px;
-    height: 280px;
+    height: 250px;
     text-align: left;
 }
 
