@@ -34,7 +34,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-block: 5px;
+    padding-block: 3px;
 }
 
 header .logo {
@@ -84,13 +84,16 @@ ul.nav-items>li {
 .nav-items li a span {
     /* letter-spacing: .4px; */
     font-size: 19.2px;
-    font-family: sans-serif;
+    font-family: "Poppins",sans-serif;
 }
 
+.nav-items li a span:hover{
+    color: #ff5e5e;
+}
 ul>li>a {
     color: #fff;
     font-size: large;
-    padding-left: 28px;
+    padding-left: 20px;
     font-weight: 400;
     text-decoration: none;
 }
